@@ -27,6 +27,34 @@
       "weapon": "Mjolnir",
       "cartoon": false,
       "id": 4
+    },
+    {
+      "name": "Marc",
+      "occupation": "UX Designer",
+      "weapon": "Creativity",
+      "cartoon": false,
+      "id": 5
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false,
+      "id": 6
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false,
+      "id": 7
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false,
+      "id": 8
     }
   ]
 }
